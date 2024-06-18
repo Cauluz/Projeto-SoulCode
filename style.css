@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(90deg, #ffcc2f, #ef5734);
+}
+
+
+.navbar a img{
+    width: 200px;
+}
+
+.container .navbar .container-fluid{
+    background: linear-gradient(90deg, #ffcc2f, #ef5734);
+}
